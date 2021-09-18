@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  ![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanj26&theme=dracula&count_private=true&hide=prs,issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+  
+</div>
+
+</br>
+
+<div align="center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanj26)](https://github.com/ivanj26/github-readme-stats)
+</div>
+
+</br>
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanj26&theme=buefy&layout=compact&langs_count=10&count_private=true&hide=prs,issues,contribs&include_all_commits=true)
+  
+</div>

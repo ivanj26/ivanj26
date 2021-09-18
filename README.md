@@ -23,14 +23,10 @@ Here are some ideas to get you started:
 
 </br>
 
-<div align="center>
+<div align="center">
+            
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanj26)](https://github.com/ivanj26/github-readme-stats)
+
 </div>
 
 </br>
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanj26&theme=buefy&layout=compact&langs_count=10&count_private=true&hide=prs,issues,contribs&include_all_commits=true)
-  
-</div>
